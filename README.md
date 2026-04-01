@@ -21,7 +21,7 @@ Sou um desenvolvedor de sistemas com duas décadas de experiência, focado em tr
 - Docker | Cloud Server Configuration | Git
 
 ## 📈 Estatísticas do GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tohnio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tohnio&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Como entrar em contato
 
